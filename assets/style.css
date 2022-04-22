@@ -163,7 +163,7 @@ h4 {
     height: 170px;
     margin: 40px 81px 30px 40px;
     display: inline-flex;
-    background-image: url(../assets/MessiGoal.jpg);
+    background-image: url(../assets/ronaldo-top-goal-scorer-awards.jpg);
     opacity: .7;
     background-size: 100% 100%;
 }
@@ -172,17 +172,17 @@ h4 {
     width: 100%;
 }
 #passer {
-    background-image: url(../assets/MessiPassing.jpg);
+    background-image: url(../assets/messi\ bad.jfif);
     background-size: 100% 100%;
     background-repeat: 0;
 }
 #dribble {
-    background-image: url(../assets/MessiDribble.jpg);
+    background-image: url(../assets/ronaldino.webp);
     background-repeat: 0;
     background-size: 100% 100%;
 }
-#Siuu {
-    background-image: url(../assets/Siuu.jpg);
+#MVP {
+    background-image: url(../assets/CR7.jpg);
     background-size: 100% 100%;
 }
 .caption:hover {
